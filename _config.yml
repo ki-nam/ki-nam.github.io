@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Kinam Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : #"I am an **amazing** person."
   location         : "Atlanta, GA, USA"
   email            :
@@ -110,11 +110,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kkim734@gatech.edu"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ki-nam.github.io"
     - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate-square"
+      icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Kinam-Kim-4"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
