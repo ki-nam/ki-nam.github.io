@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Kinam Kim"
-  avatar           : "/assets/images/profile_1.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : #"I am an **amazing** person."
   location         : "Atlanta, GA, USA"
   email            :
@@ -114,7 +114,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Kinam-Kim-4"
     - label: "LinkedIn"
-      icon: "fab fa-fw fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kinam-kim-981a51218/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
