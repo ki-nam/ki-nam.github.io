@@ -119,8 +119,7 @@ author:
       url: "https://www.linkedin.com/in/kinam-kim-981a51218/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: (https://scholar.google.com/citations?user=EiJ_iC0AAAAJ&hl=en&oi=ao){:target="_blank"}
-
+      url: "https://scholar.google.com/citations?user=EiJ_iC0AAAAJ&hl=en&oi=ao"
 
 # Site Footer
 footer:
