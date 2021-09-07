@@ -117,7 +117,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kinam-kim-981a51218/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
+      icon: "ai ai-google-scholar-square ai-1x"
       url: "https://scholar.google.com/citations?user=EiJ_iC0AAAAJ&hl=en&oi=ao"
 
 
