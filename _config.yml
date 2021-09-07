@@ -114,7 +114,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Kinam-Kim-4"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kinam-kim-981a51218/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
@@ -134,7 +134,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       #url: "https://www.linkedin.com/in/kinam-kim-981a51218/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
+      icon: "fas fa-fw fa-graduation-cap"
       #url: "https://scholar.google.com/citations?user=EiJ_iC0AAAAJ&hl=en&oi=ao"
 
 # Reading Files
