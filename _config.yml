@@ -114,7 +114,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Kinam-Kim-4"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/kinam-kim-981a51218/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
@@ -126,16 +126,16 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kkim734@gatech.edu"
+      #url: "mailto:kkim734@gatech.edu"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Kinam-Kim-4"
+      #url: "https://www.researchgate.net/profile/Kinam-Kim-4"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kinam-kim-981a51218/"
+      #url: "https://www.linkedin.com/in/kinam-kim-981a51218/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.com/citations?user=EiJ_iC0AAAAJ&hl=en&oi=ao"
+      #url: "https://scholar.google.com/citations?user=EiJ_iC0AAAAJ&hl=en&oi=ao"
 
 # Reading Files
 include:
