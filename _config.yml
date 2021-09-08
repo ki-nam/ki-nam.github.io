@@ -21,10 +21,10 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kinam Kim"
 description              : "Kinam Kim's website."
-url                      : "localhost:4000" #"https://ki-nam.github.io"
+url                      : "http://localhost:4000" #"https://ki-nam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/background_1.jpg" # path of fallback teaser image, e.g.
+teaser                   : # "/assets/images/background_1.jpg" # path of fallback teaser image, e.g.
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -106,11 +106,11 @@ author:
   avatar           : "/assets/images/profile_photo.jpg"
   bio              : #"I am an **amazing** person."
   location         : "Atlanta, GA, USA"
-  email            :
+  email            : "kkim734@gatech.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kkim734@gatech.edu"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:kkim734@gatech.edu"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Kinam-Kim-4"
