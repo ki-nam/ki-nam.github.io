@@ -3,7 +3,7 @@ title:  "Publications"
 header:
   overlay_image: /assets/images/background_1.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: RICAL"
+  #caption: "Photo credit: RICAL"
 layout: single
 permalink: /publications/
 author_profile: true

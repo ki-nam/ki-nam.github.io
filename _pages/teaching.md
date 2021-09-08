@@ -3,7 +3,7 @@ title:  "Teaching"
 header:
   overlay_image: /assets/images/background.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: RICAL"
+  #caption: "Photo credit: RICAL"
 layout: single
 permalink: /teaching/
 author_profile: true
