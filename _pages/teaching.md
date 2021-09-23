@@ -15,12 +15,12 @@ toc_sticky: true
 ---
 ## Lecture
 ### CEE4803C/8813L Construction Automation and Robotics
-* Role: Guest Lecturer and Teaching Assistant
+* Role: Substitute Lecturer and Teaching Assistant
 * Georgia Institute of Technology
 * Fall 2021
 
 ### CEE4803F/8813(C, I) Automation in Construction
-* Role: Guest Lecturer and Teaching Assistant
+* Role: Substitute Lecturer and Teaching Assistant
 * Georgia Institute of Technology
 * Fall 2018, Fall 2019, Spring 2021
 
